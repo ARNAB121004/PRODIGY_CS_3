@@ -1,0 +1,16 @@
+2025-08-12 22:56:28 | keylogger.py - PRODIGY_CS - Visual Studio Code | h
+2025-08-12 22:56:29 | keylogger.py - PRODIGY_CS - Visual Studio Code | e
+2025-08-12 22:56:29 | keylogger.py - PRODIGY_CS - Visual Studio Code | l
+2025-08-12 22:56:30 | keylogger.py - PRODIGY_CS - Visual Studio Code | l
+2025-08-12 22:56:30 | keylogger.py - PRODIGY_CS - Visual Studio Code | o
+2025-08-12 22:56:30 | keylogger.py - PRODIGY_CS - Visual Studio Code | [space]
+2025-08-12 22:56:31 | keylogger.py - PRODIGY_CS - Visual Studio Code | w
+2025-08-12 22:56:31 | keylogger.py - PRODIGY_CS - Visual Studio Code | o
+2025-08-12 22:56:32 | keylogger.py - PRODIGY_CS - Visual Studio Code | r
+2025-08-12 22:56:32 | keylogger.py - PRODIGY_CS - Visual Studio Code | l
+2025-08-12 22:56:32 | keylogger.py - PRODIGY_CS - Visual Studio Code | d
+2025-08-12 22:56:33 | keylogger.py - PRODIGY_CS - Visual Studio Code | [space]
+2025-08-12 22:56:33 | keylogger.py - PRODIGY_CS - Visual Studio Code | 1
+2025-08-12 22:56:34 | keylogger.py - PRODIGY_CS - Visual Studio Code | 2
+2025-08-12 22:56:34 | keylogger.py - PRODIGY_CS - Visual Studio Code | 3
+2025-08-12 22:56:36 | keylogger.py - PRODIGY_CS - Visual Studio Code | [esc]
